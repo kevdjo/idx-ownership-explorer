@@ -149,7 +149,7 @@ npm run dev
 
 ## Data Source
 
-The application uses `public/ownership.json` as its data source, which contains:
+The application uses `public/ownership.json` as its data source whicih derived from [Pemegang Saham di atas 1% (KSEI) [Semua Emiten]](https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202603/b9b638e5a8_8928aca255.pdf), which contains:
 
 ```typescript
 interface Company {
