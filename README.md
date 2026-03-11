@@ -1,5 +1,15 @@
 # IDX Ownership Explorer
 
+> **🏆 Alibaba Cloud AI Championship 2026**
+>
+> This project is built with [Qwen Code](https://github.com/QwenLM/qwen-code) - an AI-powered coding assistant by Alibaba Cloud.
+> Developed for the **Alibaba AI Championship** event, showcasing intelligent development workflows and modern web technologies.
+
+![Alibaba Cloud AI Championship](https://img.shields.io/badge/Alibaba_AI_Championship-2026-orange?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
+![D3.js](https://img.shields.io/badge/D3.js-v7-orange?style=for-the-badge&logo=d3.js)
+
 A Next.js web application for exploring and visualizing ownership data from the Indonesia Stock Exchange (IDX). This tool provides an interactive way to analyze shareholder structures, investor portfolios, and ownership relationships between companies and investors.
 
 ## Features
@@ -214,5 +224,6 @@ This project is proprietary and confidential.
 ## Acknowledgments
 
 - Data sourced from Indonesia Stock Exchange (IDX)
-- Built with Next.js and D3.js
-- Styled with Tailwind CSS
+- Built with [Next.js](https://nextjs.org) and [D3.js](https://d3js.org)
+- Styled with [Tailwind CSS](https://tailwindcss.com)
+- Developed with [Qwen Code](https://github.com/QwenLM/qwen-code) for the **Alibaba AI Championship 2026**
