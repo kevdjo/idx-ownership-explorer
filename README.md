@@ -1,5 +1,7 @@
 # IDX Ownership Explorer
 
+Youtube Video Demo Link: [Kevin - Alibaba Cloud AI Championship - IDX Ownership Explorer](https://youtu.be/ggeFfnmTT58)
+
 > **🏆 Alibaba Cloud AI Championship 2026**
 >
 > This project is built with [Qwen Code](https://github.com/QwenLM/qwen-code) - an AI-powered coding assistant by Alibaba Cloud.
